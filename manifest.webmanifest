@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "XOLARAIZ™ Solar Site Survey Pro",
+  "short_name": "XOLARAIZ Pro",
+  "description": "เครื่องมือสำรวจหน้างาน ประเมินความปลอดภัย CriXisZafe™ และจัดทำรายงานวิศวกรรมโซลาร์เซลล์",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0A192F",
+  "theme_color": "#0A192F",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/aistudio/1795001766217_50c5de98.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
