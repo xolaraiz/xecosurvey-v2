@@ -1,0 +1,6 @@
+{
+  "name": "XOLARAIZ™ Solar Site Survey Pro",
+  "description": "เครื่องมือสำรวจหน้างาน ประเมินความปลอดภัย CriXisZafe™ และจัดทำรายงานวิศวกรรมโซลาร์เซลล์สำหรับเครือข่าย XOLARAIZ™ Master Franchise",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
